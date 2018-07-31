@@ -3,7 +3,7 @@
 ## Projet React ##
 ## Pour visualiser le projet en ligne : http://life-is-short.surge.sh/ ##
 
-Cette application est réalisée avec React et l'API World Population(http://api.population.io/).
+Cette application est réalisée avec React, Redux et l'API World Population(http://api.population.io/).
 
 Elle permet d'obtenir le taux de mortalité par pays, par âge et par genre.
 Par défaut, l'app affiche les statistiques de la France.
