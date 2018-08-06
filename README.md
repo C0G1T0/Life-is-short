@@ -1,6 +1,6 @@
 # Life-is-short #
 
-## Projet React ##
+## Projet React - Redux ##
 ## Pour visualiser le projet en ligne : http://life-is-short.surge.sh/ ##
 
 Cette application est réalisée avec React, Redux et l'API World Population(http://api.population.io/).
